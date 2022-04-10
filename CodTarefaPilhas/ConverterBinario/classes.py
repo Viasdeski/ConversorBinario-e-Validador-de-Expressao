@@ -30,7 +30,3 @@ class Binario():
             numeral,bin = divmod(decimal,2)
             self.push(bin)
             decimal = numeral
-            
-            
-        
-            
